@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <img src="https://www.macleans.ca/wp-content/uploads/2017/12/DEC21_HUME-AI_POST.jpeg" alt="khushi0205" /> </p>
+<img src="https://camo.githubusercontent.com/a9c4f871dd1418623eed4d86dcfbd62a026a53117b24f583654916cd4353decf/68747470733a2f2f7777772e6d61636c65616e732e63612f77702d636f6e74656e742f75706c6f6164732f323031372f31322f44454332315f48554d452d41495f504f53542e6a706567" alt="khushi0205" data-canonical-src="https://www.macleans.ca/wp-content/uploads/2017/12/DEC21_HUME-AI_POST.jpeg" style="max-width: 44%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi0205&label=Profile%20views&color=0e75b6&style=flat" alt="khushi0205" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi0205" alt="khushi0205" /></a> </p>
