@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <img src="C:\Users\khushi\Downloads\robo.png\" alt="khushi0205" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/16/6f/fb/166ffb55025adbc5634dd6f13b48fbd5.jpg" alt="khushi0205" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi0205&label=Profile%20views&color=0e75b6&style=flat" alt="khushi0205" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi0205" alt="khushi0205" /></a> </p>
