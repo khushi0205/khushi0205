@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khushi0205](https://github.com/khushi0205)
+- 👨‍💻 All of my projects are available at **https://github.com/khushi0205**
 
 - 📫 How to reach me **khushi.sali2002@gmail.com**
 
